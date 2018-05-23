@@ -5,3 +5,13 @@ puppet_enterprise::master::code_manager::git_settings:
  repositories:
   - remote: 'ssh://git@github.com:bchristianv/puppet-site_bchristianv.git'
     private-key: '/etc/puppetlabs/puppetserver/ssh/id-site_bchristianv.rsa'
+message: >
+    ENC[PKCS7,MIIBiQYJKoZIhvcNAQcDoIIBejCCAXYCAQAxggEhMIIBHQIBADAFMAACAQEw
+    DQYJKoZIhvcNAQEBBQAEggEAGPDVjo7KvNh4phpTTmxvljJ/xfUNbOkssv16
+    /+7e8nTbJbPv2XpV2vpP0jPbNHiuhEbW/9BrW9DBzxwzbPSbAlad6aSdLF7c
+    GJw597ImUXkP/qlMqtf5Bon/7Q/RsBb5RoPUVd7YTX8fuf+FznPpkr1Vnsta
+    nFtxkaQLP9p0FLcud5sbnypNVDwZeRq/ny/qW1ncp2fiRX2ASOJknarWwTHx
+    Yz6ws087/iy7/Dz9Tu+HX85aqoeBuyCsSTRUzRJ5M5OlWYwXRYFK0jSu3Z7H
+    5e7ecjoajN7cJ7wa+X9cNQ3BptX0E2b0QbvH4eCaDW1p30mAPyhHGrkafYAx
+    rCRSfDBMBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBAWWnwuZMkS9gqnXApq
+    ceHCgCCy8kEUUpHHc3e8p8N0JMdITxH/snJ4Biwm5rcyfb/0cw==]
