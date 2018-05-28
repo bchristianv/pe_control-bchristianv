@@ -7,11 +7,11 @@ puppet_enterprise::master::code_manager::git_settings:
     private-key: '/etc/puppetlabs/puppetserver/ssh/id-site_bchristianv-rsa'
 message: >
     ENC[PKCS7,MIIBiQYJKoZIhvcNAQcDoIIBejCCAXYCAQAxggEhMIIBHQIBADAFMAACAQEw
-    DQYJKoZIhvcNAQEBBQAEggEAGPDVjo7KvNh4phpTTmxvljJ/xfUNbOkssv16
-    /+7e8nTbJbPv2XpV2vpP0jPbNHiuhEbW/9BrW9DBzxwzbPSbAlad6aSdLF7c
-    GJw597ImUXkP/qlMqtf5Bon/7Q/RsBb5RoPUVd7YTX8fuf+FznPpkr1Vnsta
-    nFtxkaQLP9p0FLcud5sbnypNVDwZeRq/ny/qW1ncp2fiRX2ASOJknarWwTHx
-    Yz6ws087/iy7/Dz9Tu+HX85aqoeBuyCsSTRUzRJ5M5OlWYwXRYFK0jSu3Z7H
-    5e7ecjoajN7cJ7wa+X9cNQ3BptX0E2b0QbvH4eCaDW1p30mAPyhHGrkafYAx
-    rCRSfDBMBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBAWWnwuZMkS9gqnXApq
-    ceHCgCCy8kEUUpHHc3e8p8N0JMdITxH/snJ4Biwm5rcyfb/0cw==]
+    DQYJKoZIhvcNAQEBBQAEggEAcSmxhir3AnB7qjHyVhnd/ulZu2jabFbulmX4
+    OwM2tnt78FkG2ILKq+XDRElzOxK3Ur3I91Y3iFKUloSaiV1mTFNzz9MGcxOk
+    qPqhenhIoGCO2/zEIsk3Rd/8BDraA+1xo4R4+QjgK0YyQQMO2MqjAYbXhU7Q
+    BgKKvcT1cDEeJ71rIoGkBUFo5s/DTY9CJZUDoKhcz55QvCIKR3JJO3HSYWJU
+    slt9zXeSF5W7wsO2FpC7lh+MQcFo0ZFFhygWUjp3iywXkGuv/m/q1eDs29B0
+    Kzr97UIMtL6PePexN0i88wFr0UkObcRXqeoBKr6aRV8f3qsMqsn98K4r7oem
+    8ZglJDBMBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBAZGjY9ChV9FRz7otMb
+    sjsCgCDn930Hv+nkJN7XRprr8oOt7iEn28AhaUwBF6TStxFK+Q==]
