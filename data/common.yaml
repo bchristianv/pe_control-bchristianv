@@ -1,10 +1,10 @@
 ---
-puppet_enterprise::master::code_manager::remote: 'git@github.com:bchristianv/puppet-control_bchristianv.git'
-puppet_enterprise::master::code_manager::git_settings:
- private-key: '/etc/puppetlabs/puppetserver/ssh/id-control_bchristianv-rsa'
- repositories:
-  - remote: 'ssh://git@github.com/bchristianv/puppet-site_bchristianv.git'
-    private-key: '/etc/puppetlabs/puppetserver/ssh/id-site_bchristianv-rsa'
+#puppet_enterprise::master::code_manager::remote: 'git@github.com:bchristianv/puppet-control_bchristianv.git'
+#puppet_enterprise::master::code_manager::git_settings:
+# private-key: '/etc/puppetlabs/puppetserver/ssh/id-control_bchristianv-rsa'
+# repositories:
+#  - remote: 'ssh://git@github.com/bchristianv/puppet-site_bchristianv.git'
+#    private-key: '/etc/puppetlabs/puppetserver/ssh/id-site_bchristianv-rsa'
 message: >
     ENC[PKCS7,MIIBiQYJKoZIhvcNAQcDoIIBejCCAXYCAQAxggEhMIIBHQIBADAFMAACAQEw
     DQYJKoZIhvcNAQEBBQAEggEAcSmxhir3AnB7qjHyVhnd/ulZu2jabFbulmX4
