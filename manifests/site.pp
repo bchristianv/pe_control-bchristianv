@@ -29,7 +29,7 @@ node default {
   # Example:
   #   class { 'my_class': }
 
-  include site_bchristianv
+  # include site_bchristianv
 
 }
 
