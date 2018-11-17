@@ -18,6 +18,6 @@ mod 'site_bchristianv',
   :git => 'git@github.com:bchristianv/puppet-site_bchristianv.git',
   :ref => '1.0.16'
 
-#mod 'yum',
-#  :git => 'ssh://git@github.com/bchristianv/puppet-yum.git',
-#  :ref => '0.5.0'
+mod 'yum',
+  :git => 'ssh://git@github.com/bchristianv/puppet-yum.git',
+  :ref => '0.5.0'
