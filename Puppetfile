@@ -14,10 +14,10 @@ mod 'puppetlabs/transition',           '0.1.1'
 
 #
 # Git Modules
-mod 'site_bchristianv',
-  :git => 'ssh://git@github.com/bchristianv/puppet-site_bchristianv.git',
-  :ref => '1.0.15'
+#mod 'site_bchristianv',
+#  :git => 'ssh://git@github.com/bchristianv/puppet-site_bchristianv.git',
+#  :ref => '1.0.15'
 
-mod 'yum',
-  :git => 'ssh://git@github.com/bchristianv/puppet-yum.git',
-  :ref => '0.5.0'
+#mod 'yum',
+#  :git => 'ssh://git@github.com/bchristianv/puppet-yum.git',
+#  :ref => '0.5.0'
