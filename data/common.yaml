@@ -18,3 +18,4 @@ message: >
     Kzr97UIMtL6PePexN0i88wFr0UkObcRXqeoBKr6aRV8f3qsMqsn98K4r7oem
     8ZglJDBMBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBAZGjY9ChV9FRz7otMb
     sjsCgCDn930Hv+nkJN7XRprr8oOt7iEn28AhaUwBF6TStxFK+Q==]
+yum::yumrepos_before_packages: true
