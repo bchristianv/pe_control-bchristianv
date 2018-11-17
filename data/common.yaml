@@ -6,6 +6,8 @@ puppet_enterprise::master::code_manager::git_settings:
   repositories:
     - remote: 'git@github.com:bchristianv/puppet-site_bchristianv.git'
       private-key: '/etc/puppetlabs/puppetserver/ssh/site_bchristianv-id_rsa'
+    - remote: 'git@github.com:bchristianv/puppet-yum.git'
+      private-key: '/etc/puppetlabs/puppetserver/ssh/yum-id_rsa'
 message: >
     ENC[PKCS7,MIIBiQYJKoZIhvcNAQcDoIIBejCCAXYCAQAxggEhMIIBHQIBADAFMAACAQEw
     DQYJKoZIhvcNAQEBBQAEggEAcSmxhir3AnB7qjHyVhnd/ulZu2jabFbulmX4
