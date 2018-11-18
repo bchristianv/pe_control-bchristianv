@@ -20,4 +20,4 @@ mod 'site_bchristianv',
 
 mod 'yum',
   :git => 'git@github.com:bchristianv/puppet-yum.git',
-  :ref => '0.5.1'
+  :ref => '0.5.2'
